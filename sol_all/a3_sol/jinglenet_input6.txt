@@ -1,0 +1,101 @@
+SEND cookie elf1 Elves, please remember to label each toy with the correct age group.
+SEND cookie elf2 Attention, all reindeer! Make sure your harnesses are properly fitted.
+SEND cookie reindeer Reminder: The ornament making workshop will be held this evening.
+SEND apple reindeer Elves, please keep the work areas clean and organized at all times.
+SEND pinky reindeer Attention, elves! The wrapping paper supply has been restocked.
+SEND fizzy snowman Reindeer team, please meet in the stable for a health check-up.
+SEND happy elf1 Attention, elves! The shipment of paint brushes has arrived.
+SEND apple elf1 Attention, all elves! A special meeting will be held in the Conference Room at 2 PM.
+SEND hopscotch elf1 Attention, reindeer! Santa will be conducting flight practice this afternoon.
+SEND fizzy santa Reminder: The annual talent show auditions will be held this Friday.
+SEND hopscotch santa Reminder: The holiday movie night is tonight in the Elf Lounge. Popcorn provided!
+SEND sugarberry elf1 Elves, please report any broken toys to the Toy Repair department immediately.
+SEND greenie elf2 Attention, all elves! Mrs. Claus needs volunteers for cookie baking.
+SEND apple elf2 Attention, reindeer! The reindeer games will take place tomorrow morning.
+SEND cookie elf2 Attention, everyone! Santa will be arriving in 15 minutes!
+SEND greenie santa Reminder: The annual talent show auditions will be held this Friday.
+SEND greenie snowman Reindeer, don't forget to hydrate and rest up for the big night.
+SEND yumyum santa Reminder: The annual talent show auditions will be held this Friday.
+SEND sugarberry snowman Attention, elves! The shipment of paint brushes has arrived.
+SEND greenie elf2 Reindeer, don't forget to hydrate and rest up for the big night.
+SEND fizzy reindeer Reminder: The annual toy donation drive ends tomorrow. Please contribute!
+SEND pinky santa Reindeer, the weather forecast shows clear skies for the big night. Get ready!
+SEND yumyum elf1 Reindeer, get ready for some training exercises at the Reindeer Gym.
+SEND apple snowman Reindeer, get ready for some training exercises at the Reindeer Gym.
+SEND greenie santa Elves, please check the Workshop Notice Board for important updates.
+ANNOUNCE 1
+ANNOUNCE 5
+PROMOTE_ANNOUNCEMENTS hopscotch
+ANNOUNCE 1
+ANNOUNCE 5
+SEND cookie elf2 Reindeer, the weather forecast shows clear skies for the big night. Get ready!
+PROMOTE_ANNOUNCEMENTS yumyum
+REMOVE_ALL fizzy
+ANNOUNCE 5
+REMOVE_ALL apple
+PROMOTE_ANNOUNCEMENTS hopscotch
+REMOVE_ALL apple
+SEND hopscotch santa Reindeer, get ready for some training exercises at the Reindeer Gym.
+ANNOUNCE 4
+REMOVE_ALL apple
+PROMOTE_ANNOUNCEMENTS yumyum
+REMOVE_ALL fizzy
+ANNOUNCE 2
+PROMOTE_ANNOUNCEMENTS scooter
+REMOVE_ALL sugarberry
+PROMOTE_ANNOUNCEMENTS yumyum
+PROMOTE_ANNOUNCEMENTS happy
+ANNOUNCE 1
+REMOVE_ALL fizzy
+REMOVE_ALL yumyum
+SEND pinky snowman Attention, elves! The gift-wrapping contest winners will be announced at 4 PM.
+ANNOUNCE 1
+REMOVE_ALL hopscotch
+REMOVE_ALL scooter
+PROMOTE_ANNOUNCEMENTS yumyum
+SEND hopscotch snowman Reminder: The annual snowball fight will take place tomorrow at noon.
+SEND happy elf1 Reindeer team, please meet in the stable for a health check-up.
+SEND yumyum reindeer Attention, elves! The deadline for toy production has been extended by one day.
+SEND happy elf1 Attention, elves! The deadline for toy production has been extended by one day.
+PROMOTE_ANNOUNCEMENTS scooter
+PROMOTE_ANNOUNCEMENTS sugarberry
+SEND scooter reindeer Attention, reindeer! The final flight rehearsal will take place tomorrow night.
+SEND cookie santa Attention, all elves! A special meeting will be held in the Conference Room at 2 PM.
+SEND fizzy elf2 Reminder: The annual snowball fight will take place tomorrow at noon.
+SEND cookie reindeer Reindeer, Santa's sleigh has been equipped with new LED lights. They look fantastic!
+ANNOUNCE 3
+REMOVE_ALL scooter
+SEND happy snowman Elves, please remember to label each toy with the correct age group.
+REMOVE_ALL fizzy
+SEND apple elf1 Reindeer team, please meet in the stable for a health check-up.
+REMOVE_ALL hopscotch
+PROMOTE_ANNOUNCEMENTS yumyum
+SEND fizzy elf2 Attention, all elves! The inventory of jingle bells has been replenished.
+PROMOTE_ANNOUNCEMENTS hopscotch
+PROMOTE_ANNOUNCEMENTS pinky
+ANNOUNCE 3
+REMOVE_ALL yumyum
+REMOVE_ALL hopscotch
+SEND scooter snowman Attention, all elves! The snow globe collection needs dusting. Volunteers needed.
+PROMOTE_ANNOUNCEMENTS pinky
+PROMOTE_ANNOUNCEMENTS fizzy
+SEND sugarberry santa Attention, all elves! The snow globe collection needs dusting. Volunteers needed.
+ANNOUNCE 5
+SEND greenie santa Attention, all elves! A special meeting will be held in the Conference Room at 2 PM.
+PROMOTE_ANNOUNCEMENTS greenie
+ANNOUNCE 4
+PROMOTE_ANNOUNCEMENTS yumyum
+SEND happy elf2 Attention, all elves! The inventory of jingle bells has been replenished.
+REMOVE_ALL sugarberry
+REMOVE_ALL yumyum
+PROMOTE_ANNOUNCEMENTS hopscotch
+PROMOTE_ANNOUNCEMENTS pinky
+REMOVE_ALL cookie
+PROMOTE_ANNOUNCEMENTS greenie
+REMOVE_ALL scooter
+SEND apple elf1 Reminder: The snow sculpture contest is next week. Start sculpting!
+SEND scooter elf2 Attention, reindeer! Santa will be conducting flight practice this afternoon.
+SEND yumyum elf1 Reminder: The ornament making workshop will be held this evening.
+SEND scooter reindeer Attention, everyone! The carolers will be performing in the courtyard this evening.
+SEND greenie elf1 Reindeer team, assemble at the sleigh for a practice run.
+ANNOUNCE 5

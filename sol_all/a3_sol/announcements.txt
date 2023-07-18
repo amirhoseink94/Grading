@@ -1,0 +1,41 @@
+1: {fizzy, santa, "Reminder: The annual talent show auditions will be held this Friday."}
+2: {hopscotch, santa, "Reminder: The holiday movie night is tonight in the Elf Lounge. Popcorn provided!"}
+3: {greenie, santa, "Reminder: The annual talent show auditions will be held this Friday."}
+4: {yumyum, santa, "Reminder: The annual talent show auditions will be held this Friday."}
+5: {pinky, santa, "Reindeer, the weather forecast shows clear skies for the big night. Get ready!"}
+6: {greenie, santa, "Elves, please check the Workshop Notice Board for important updates."}
+7: {cookie, reindeer, "Reminder: The ornament making workshop will be held this evening."}
+8: {apple, reindeer, "Elves, please keep the work areas clean and organized at all times."}
+9: {pinky, reindeer, "Attention, elves! The wrapping paper supply has been restocked."}
+10: {fizzy, reindeer, "Reminder: The annual toy donation drive ends tomorrow. Please contribute!"}
+11: {cookie, elf2, "Attention, all reindeer! Make sure your harnesses are properly fitted."}
+12: {greenie, elf2, "Attention, all elves! Mrs. Claus needs volunteers for cookie baking."}
+13: {apple, elf2, "Attention, reindeer! The reindeer games will take place tomorrow morning."}
+14: {cookie, elf2, "Attention, everyone! Santa will be arriving in 15 minutes!"}
+15: {greenie, elf2, "Reindeer, don't forget to hydrate and rest up for the big night."}
+16: {hopscotch, elf2, "Attention, reindeer! Santa will be conducting flight practice this afternoon."}
+17: {cookie, elf2, "Reindeer, the weather forecast shows clear skies for the big night. Get ready!"}
+18: {hopscotch, santa, "Reindeer, get ready for some training exercises at the Reindeer Gym."}
+19: {yumyum, elf2, "Reindeer, get ready for some training exercises at the Reindeer Gym."}
+20: {cookie, elf1, "Elves, please remember to label each toy with the correct age group."}
+21: {happy, elf1, "Attention, elves! The shipment of paint brushes has arrived."}
+22: {sugarberry, elf1, "Elves, please report any broken toys to the Toy Repair department immediately."}
+23: {greenie, snowman, "Reindeer, don't forget to hydrate and rest up for the big night."}
+24: {pinky, snowman, "Attention, elves! The gift-wrapping contest winners will be announced at 4 PM."}
+25: {cookie, santa, "Attention, all elves! A special meeting will be held in the Conference Room at 2 PM."}
+26: {yumyum, reindeer, "Attention, elves! The deadline for toy production has been extended by one day."}
+27: {scooter, reindeer, "Attention, reindeer! The final flight rehearsal will take place tomorrow night."}
+28: {cookie, reindeer, "Reindeer, Santa's sleigh has been equipped with new LED lights. They look fantastic!"}
+29: {fizzy, elf2, "Attention, all elves! The inventory of jingle bells has been replenished."}
+30: {happy, elf1, "Reindeer team, please meet in the stable for a health check-up."}
+31: {sugarberry, santa, "Attention, all elves! The snow globe collection needs dusting. Volunteers needed."}
+32: {happy, elf1, "Attention, elves! The deadline for toy production has been extended by one day."}
+33: {apple, elf1, "Reindeer team, please meet in the stable for a health check-up."}
+34: {happy, snowman, "Elves, please remember to label each toy with the correct age group."}
+35: {scooter, snowman, "Attention, all elves! The snow globe collection needs dusting. Volunteers needed."}
+36: {greenie, santa, "Attention, all elves! A special meeting will be held in the Conference Room at 2 PM."}
+37: {scooter, reindeer, "Attention, everyone! The carolers will be performing in the courtyard this evening."}
+38: {happy, elf2, "Attention, all elves! The inventory of jingle bells has been replenished."}
+39: {scooter, elf2, "Attention, reindeer! Santa will be conducting flight practice this afternoon."}
+40: {apple, elf1, "Reminder: The snow sculpture contest is next week. Start sculpting!"}
+41: {yumyum, elf1, "Reminder: The ornament making workshop will be held this evening."}

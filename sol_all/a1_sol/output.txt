@@ -1,0 +1,16 @@
+1. {"hello", 2}
+2. {"world", 1}
+3. {"zoo", 3}
+
+Reading small.txt ... 
+Number of different words: 7
+    Total number of words: 9
+       Most frequent word: a 2
+     Number of singletons: 5 (71%)
+
+Reading time_machine1.txt ... 
+Number of different words: 787
+    Total number of words: 1680
+       Most frequent word: the 84
+     Number of singletons: 587 (75%)
+
